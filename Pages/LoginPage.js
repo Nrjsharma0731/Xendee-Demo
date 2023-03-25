@@ -18,7 +18,7 @@ exports.LoginPage = class LoginPage {
 
   async goto() {
     
-    await this.page.goto('https://www.google.com/');
+    await this.page.goto('https://test.xendee.com/');
     
   }
 
